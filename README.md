@@ -2,7 +2,7 @@
 
 Pixel art with Pure CSS - Star Wars { Padme Amidala }
 
-![_Captura_de_Tela_2018-08-22_às_23 43 16](https://user-images.githubusercontent.com/12216463/59978655-02cb2e00-95b5-11e9-8768-b8e901764bcf.png)
+![Screen Shot 2020-05-11 at 00 35 22](https://user-images.githubusercontent.com/12216463/81522437-ff51aa00-9320-11ea-9891-f217bc987a5a.png)
 
 ### Directory Structure
 
